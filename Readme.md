@@ -1,5 +1,5 @@
 
-# a working demo for quartznet 2.x #
+# a working demo for quartznet 2.x under iis and asp.net #
 
 ### including: ###
 
