@@ -6,7 +6,7 @@
   di in ijobfactory(windsor)  
   database persistance(mysql) 
   
-  add/deleteat runtime by code
+  add/delete job at runtime by code
 ### setup ###
 
 1. execute database schema for your database https://github.com/quartznet/quartznet/tree/master/database/tables
